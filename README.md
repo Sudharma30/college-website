@@ -1,0 +1,1 @@
+This is the college website for a small project.
